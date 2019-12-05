@@ -1,0 +1,16 @@
+{
+  "name": "model-writer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc index.ts && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/request": "^2.48.3",
+    "request": "^2.81.0",
+    "rxjs": "^6.5.3"
+  }
+}
